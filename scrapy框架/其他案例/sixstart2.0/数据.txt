@@ -1,0 +1,140 @@
+{'name': 'Luke老师', 'synopsis': '六星教育', 'title': 'PHP学院金牌讲师'}
+{'name': '新雨老师',
+ 'synopsis': '六星教育项目研发部技术总监，资深架构师，擅长领域Python爬虫-数据分析、PHP、webJavaScript，7年大型电商平台架构经验,曾就职于牙医帮电商平台、亚信、阿里云IoT事业部。',
+ 'title': 'C++学院项目总监、高级架构师'}
+{'name': 'Pack',
+ 'synopsis': '六星教育创始人，12年项目研发经验，曾就职于IBM、拓维等上市公司担任架构师/开发主管等职位；熟悉PHP开源系统的二次开发；大容量高并发电商应用架构设计和开发经验；专注于大数据WEB架构；有Hadoop大数据云平台平台项目架构经验；丰富的企业专业培训经验。',
+ 'title': '创始人'}
+{'name': 'Helen老师', 'synopsis': '六星教育', 'title': 'Python学院教学研发总监'}
+{'name': '星沉老师',
+ 'synopsis': '插画设计学院 星沉老师 '
+             '职业插画师、漫画师。毕业于某985大学动漫设计专业，8年绘画经验，作品《我是杀手女仆》在腾讯动漫连载，观看量超16亿，并于17年改编成同名电影在爱奇艺独家放送。掌握多种不同的绘画风格，画面色彩鲜明，带有强烈的二次元风格',
+ 'title': '暂无头衔'}
+{'name': 'Peter老师',
+ 'synopsis': '9年项目研发经验，担任过拓维、新浪等上市企业技术管理岗位，经历过大型项目的攻坚与调优。',
+ 'title': '六星集团联合创始人、PHP学院院长、资深架构师'}
+{'name': 'Allen老师', 'synopsis': '六星教育', 'title': 'PHP学院金牌讲师'}
+{'name': '星空老师', 'synopsis': '现任六星教育', 'title': 'PHP高级讲师'}
+{'name': 'Candy老师', 'synopsis': '六星教育金牌老师，', 'title': '高级金牌讲师、PHP高级工程师'}
+{'name': '安安老师', 'synopsis': '六星教育', 'title': 'Java学院VIP金牌讲师、研发组长、架构师'}
+{'name': '小鱼老师', 'synopsis': '现任六星教育', 'title': '六星集团金牌高级讲师、高级工程师'}
+{'name': '晴天老师',
+ 'synopsis': '六星软件学院CTO，曾任职于省六建、阿里云IOT事业部，9年项目开发经验，高级全栈开发工程师 精通Django Flask '
+             '开发框架 精通Matplotlib Numpy Pandas 数据分析。',
+ 'title': '六星软件学院CTO'}
+{'name': '楚墨老师', 'synopsis': '六星教育-杰越学院院长', 'title': '杰越学院院长'}
+{'name': '奇妙老师',
+ 'synopsis': '7年前端开发经验，精通Html+css, '
+             'javascript,Node.js,React/Vue,前端开发业务,前端主流技术栈，擅长各种业务工程环境开发。曾任职于大唐,中软等名企项目负责人，在IT届是属于不可多得的兼颜值和技术于一体的讲师。风趣可爱幽默,对学员耐心,能够与学员打成一片。',
+ 'title': '高级前端工程师'}
+{'name': '小威', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '丹丹老师',
+ 'synopsis': '湖南大学软件工程专业，6年大型企业级项目研发经验，曾就职微软中国北京公司、京东集团等，精通html/css，JavaScript，vue/react/pc端、移动端项目开发等。',
+ 'title': 'Web前端高级工程师'}
+{'name': 'Alan老师', 'synopsis': '十年企业级项目开发，曾任职于拓维', 'title': '项目经理、高级架构师'}
+{'name': 'Cara老师', 'synopsis': '六星教育', 'title': '六星集团PHP学院金牌讲师'}
+{'name': '苏奕老师',
+ 'synopsis': '六星教育-杰越学院副院长 兼联合创始人 腾讯课堂认证讲师 网易高级视觉设计师 QQ音乐界面视觉设计 教学经验： '
+             '2016至今做设计教学研发 辅导学员各大项目设计 具有丰富的项目接单经验',
+ 'title': '杰越学院副院长'}
+{'name': 'YoYo', 'synopsis': '不断追求服务质量的更高水平！', 'title': '六星教育-官方售后客服'}
+{'name': 'Harry老师', 'synopsis': '六星教育', 'title': 'PHP学院金牌讲师、全栈工程师'}
+{'name': 'shineyork',
+ 'synopsis': '六星教育-shineyork老师',
+ 'title': '六星教育-shineyork老师'}
+{'name': '翠翠老师', 'synopsis': '7年在线教学经验', 'title': '老师'}
+{'name': 'Maiya', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'sixstar_will',
+ 'synopsis': '六星教育PHP学院金牌讲师，6年项目开发经验。精通PHP主流框架，曾任职于掌阅。熟悉网站架构设计、数据库优化、Shell编程等。',
+ 'title': 'PHP讲师'}
+{'name': '云栖', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'harry', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '大白', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '芥茉ya', 'synopsis': '视觉传达毕业', 'title': '芥茉ya~'}
+{'name': 'sieyes', 'synopsis': '故渊老师', 'title': '小学生'}
+{'name': '潇潇', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'Summy靓仔', 'synopsis': '靓仔一枚~~~', 'title': '靓仔'}
+{'name': 'robert', 'synopsis': '机器人瓦力', 'title': '菜鸟'}
+{'name': '安井', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '可达', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '易木', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '安安', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '长清老师', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'jace123', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'jiuge', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '星空', 'synopsis': '六星教育-PHP高级讲师', 'title': 'PHP讲师'}
+{'name': 'Kristen', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'cara', 'synopsis': '1', 'title': '六星教育-Cara老师'}
+{'name': '芝诺', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'sixstar99', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'Wilia', 'synopsis': '喜欢诗和远方，让我们在知识的海洋里畅游。', 'title': '暂无头衔'}
+{'name': '乖宝', 'synopsis': None, 'title': '暂无头衔'}
+{'name': 'ceshi', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '六星教育_小何老师',
+ 'synopsis': '从事前端开发行业5年，担任过app产品开发项目经理，2年教育经验，深知小白如何入门经验，精通主流框架技术vue/react，目前就任web前端全栈高级讲师。',
+ 'title': '暂无头衔'}
+{'name': '六星教育_咚咚老师',
+ 'synopsis': '从事前端开发7年，熟练原生JavaScript，主流前端框架技术，日常喜欢钻研底层原理及新技术。现任web高级讲师，目标是培养出非搬砖高端程序员',
+ 'title': '暂无头衔'}
+{'name': 'useraj4gsq',
+ 'synopsis': '从事前端开发行业5年，担任过app产品开发项目经理，2年教育经验，深知小白如何入门经验，精通主流框架技术vue/react，目前就任web前端全栈高级讲师。',
+ 'title': '小何老师'}
+{'name': '北尘老师',
+ 'synopsis': '2011年接触品牌设计行业，9年设计行业经验，于15年开始担任视觉设计指导，先后在品牌策划设计公司、设计传媒公司担任创意设计总监，于多家知名品牌有过多次项目合作经历。教导学员新潮的视觉设计理念，带领学员掌握优秀的色彩、质感、设计思维。',
+ 'title': '暂无头衔'}
+{'name': '楚默', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '百水老师',
+ 'synopsis': '六星设计学院百水老师,红动签约设计师，擅长品牌设计，上课幽默风趣。',
+ 'title': '暂无头衔'}
+{'name': '昕妍老师',
+ 'synopsis': '曾获得全球广告最佳oneshow金铅笔奖，先后就职于新浪、新华社，在平面设计及ui设计方面具有独到的设计理念',
+ 'title': '暂无头衔'}
+{'name': '薇薇老师', 'synopsis': None, 'title': '教师'}
+{'name': '六星教育茜茜', 'synopsis': None, 'title': '暂无头衔'}
+{'name': '阿杰老师', 'synopsis': '六星教育', 'title': 'Web学院高级讲师'}
+{'name': 'Amy老师',
+ 'synopsis': 'Web前端高级工程师，7年项目开发经验，曾就职新浪微博，掌握ReactJs、Vue、Angularjs等主流开发框架，善于 '
+             'Web 性能优化与架构的设计。',
+ 'title': 'Web前端高级工程师'}
+{'name': 'Lori老师',
+ 'synopsis': '毕业于湖南师范大学，在校期间表现优异，毕业之后去美国进行了深造',
+ 'title': '彩铅金牌讲师、绘画师'}
+{'name': 'kenny老师',
+ 'synopsis': '5年的前端开发经验,曾任职于某智能科技公司，中联重科等担任高级前端开发工程师，参与pc端响应式网站开发,数据交互等 '
+             '精通HTML5-CSS3-JavaScript-Vue.Js/React-Node.js '
+             '精通响应式布局技术BoosStrap,UI框架Element,VuX,Mint,Vant;项目实战开发经验丰富,能够应对各种复杂业务开发环境,PC端,APP移动端,以及微信小程序的开发',
+ 'title': '高级金牌讲师、高级前端开发工程师'}
+{'name': '天涯老师', 'synopsis': '大家好，我是天涯。', 'title': '彩铅金牌讲师'}
+{'name': 'Summy老师', 'synopsis': '前端资深工程师、', 'title': '前端资深工程师、前端高级技术顾问'}
+{'name': '萧萧老师', 'synopsis': '曾在杭州', 'title': 'Java高级工程师、金牌讲师'}
+{'name': 'Fame老师',
+ 'synopsis': '十余年互联网开发经验，曾就职于金蝶、德邦、58等公司-线互联网公司，担任过技术经理、架构师等高T级别，带领团队主持和主导 '
+             '了许多互联网项目,经历过从单体架构到大型分布式、微服务系统的演变,支撑千万级客户。有着丰富的分布式服务，高并发、高可用应用经验。对系统诊断、调优有大量的实战经验。现就职于六星教育,担任JAVA '
+             'VIP教研总监，专注于JAVA分布式，微服务等课程研发及授课。',
+ 'title': 'java学院 VIP教研总监，架构师，技术经理'}
+{'name': '枫林老师', 'synopsis': '六星教育', 'title': 'python教研负责人、高级开发工程师'}
+{'name': '九歌老师',
+ 'synopsis': '中南大学计算机专业研究生毕业，精通数据结构与算法，数据分析，人工智能，爬虫，拥有四年',
+ 'title': 'Python金牌主讲老师'}
+{'name': '吉姆老师', 'synopsis': '六星云', 'title': 'Python学院金牌讲师'}
+{'name': '布乐老师',
+ 'synopsis': '六星教育项目研发部技术总监，资深架构师，擅长领域Python爬虫-数据分析、PHP、webJavaScript，7年大型电商平台架构经验,曾就职于牙医帮电商平台、亚信、阿里云IoT事业部。',
+ 'title': '研发部技术总监、资深架构师'}
+{'name': 'Echo老师', 'synopsis': '六年', 'title': 'JAVA高级工程师、金牌讲师'}
+{'name': 'Will老师', 'synopsis': '六星教育', 'title': 'PHP学院金牌讲师'}
+{'name': '可达老师', 'synopsis': '六星教育C/C++高级讲师', 'title': '高级工程师'}
+{'name': 'Seven老师',
+ 'synopsis': '7年的项目研发经验，曾任职于唯品会、优酷等大型上市公司，精通TP5，Laravel，yaf等主流PHP框架，精通网站调优、安全防护等，具备网站架构设计能力。',
+ 'title': 'PHP高级工程师'}
+{'name': '北斗老师',
+ 'synopsis': 'Java 10年开发经验 六星教育Java学院院长 擅长分布式架构集群搭建优化,架构拆分',
+ 'title': 'Java学院院长、高级架构师'}
+{'name': '龙卷风老师', 'synopsis': '多年在线授课经验', 'title': 'C/C++金牌讲师'}
+{'name': '教主老师',
+ 'synopsis': '2年线下教育经验，熟知小白如何入门经验。 3年北上广cocos2d游戏开发经验。 '
+             '精通C/C++编程语言，数据结构和高级算法，lua语言，熟练掌握cocos2d游戏引擎研发，unity3d游戏引擎编程。',
+ 'title': 'C/C++金牌讲师'}
+{'name': 'zero老师',
+ 'synopsis': '八年一线互联网公司工作经验，之前就职于金蝶、中兴等知名互联网公司，前金蝶中间件团队架构组成员、中兴通讯项目负责人，负责主导过多个大型互联网项目研发到落地部署，专注于并发',
+ 'title': '架构师、项目负责人'}
+{'name': 'winner老师', 'synopsis': '已有', 'title': '研发经理、金牌高级讲师'}
